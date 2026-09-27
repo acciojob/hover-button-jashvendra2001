@@ -3,14 +3,14 @@
 
 #btn{
 	background-color:black;
-	font-style:white;
+	font-color:white;
 	border-radius:5px;
 	
 }
 
 #btn:hover{
 	background-color:yellow;
-	font-style:black;
+	font-color:black;
 	border-radius:30px;
 	
 }
